@@ -1,5 +1,7 @@
 package oop;
 
+import oop.thuake.NVhanhchinh;
+
 public class test {
     public static void main(String[] args) {
     NVhanhchinh hc1 = new NVhanhchinh("huy",23,1);
